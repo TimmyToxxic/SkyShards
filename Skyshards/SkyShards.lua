@@ -136,14 +136,14 @@ local defaults = {      -- default settings for saved variables
   pinTexture = {
     type = 1,
     size = 38,
-    level = 40,
+    level = 105,
   },
   filters = {
     [PINS_COMPASS] = true,
     [PINS_UNKNOWN] = true,
     [PINS_COLLECTED] = false,
   },
-  mainworldSkyshards = ZO_SELECTED_TEXT:ToHex(),
+  mainworldSkyshards = "00ff00",
   immersiveMode = 1,
 }
 
