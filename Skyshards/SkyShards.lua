@@ -143,7 +143,7 @@ local defaults = {      -- default settings for saved variables
     [PINS_UNKNOWN] = true,
     [PINS_COLLECTED] = false,
   },
-  mainworldSkyshards = ZO_SELECTED_TEXT:ToHex(),
+  mainworldSkyshards = "00ff00",
   immersiveMode = 1,
 }
 
